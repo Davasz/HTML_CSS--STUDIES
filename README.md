@@ -1,7 +1,7 @@
 # Repositório de estudos sobre HTML / CSS
 
 Estudos realizados por [Davi Souza](https://github.com/Davasz), abordando HTML e CSS.
-[Davi Souza](https://github.com/Davasz)
+
 
 <br>
 
