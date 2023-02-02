@@ -4,9 +4,9 @@ Estudos realizados por [Davi Souza](https://github.com/Davasz), abordando HTML e
 
 <br>
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-- # Quality Rating Page
+## Quality Rating Page
 <ul> 
 <li> 🧳[Repositório](https://github.com/Davasz/qualityrating-page)
 <li> ⚙️[Execute o projeto](https://davasz.github.io/qualityrating-page/)
